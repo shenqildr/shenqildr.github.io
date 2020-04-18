@@ -13,7 +13,7 @@ I have graduated and received my Bachelor degree from [School of Mathematical Sc
 
 # Research Interests
 My research interests include topics in machine learning and computer vision.
-Most recently, I am interested in Explainable deep learning
+Most recently, I am interested in Explainable deep learning.
 
 Publication
 ======
