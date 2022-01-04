@@ -15,6 +15,6 @@ Jounal paper
     
 Conference paper
 ======
-* **Building Interpretable Interaction Trees for Deep NLP Models** \[[pdf](https://zhouhuilin116.github.io/files/PAMI2020_interpretableCNNs.pdf)\]<br>
+* **Building Interpretable Interaction Trees for Deep NLP Models** \[[pdf](https://zhouhuilin116.github.io/files/AAAI-63.ZhangD.pdf)\]<br>
     Die Zhang, **HuiLin Zhou**, Hao Zhang, Xiaoyi Bao, Da Huo, Ruizhao Chen, Xu Cheng, Mengyue Wu, Quanshi Zhang*<br>
     accepted by Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
