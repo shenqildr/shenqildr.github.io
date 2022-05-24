@@ -17,7 +17,7 @@ Most recently, I am interested in Explainable deep learning and 3D Point Cloud p
 
 Publication
 ======
-* **A Robust and Reliable Point Cloud Recognition Network Under Rigid Transformation** \[[pdf](https://shenqildr.github.io/files/A_Robust_and_Reliable_Point_Cloud_Recognition_Network_Under_Rigid_Transformation.pdf)\]<br>
+* **A Robust and Reliable Point Cloud Recognition Network Under Rigid Transformation** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676569)\]<br>
     **Dongrui Liu**, Chuanchuan Chen, Changqing Xu, Qi Cai, Lei Chu, Fei Wen, and Robert Qiu<br>
     accepted by IEEE Transactions on Instrumentation and Measurement (TIM)
     
