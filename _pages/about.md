@@ -17,9 +17,9 @@ Most recently, I am interested in Explainable deep learning and 3D Point Cloud p
 
 Publication
 ======
-* **A Robust and Reliable Point Cloud Recognition Network Under Rigid Transformation** \[[pdf](https://zhouhuilin116.github.io/files/PAMI2020_interpretableCNNs.pdf)\]<br>
+* **A Robust and Reliable Point Cloud Recognition Network Under Rigid Transformation** \[[pdf](https://shenqildr.github.io/files/A_Robust_and_Reliable_Point_Cloud_Recognition_Network_Under_Rigid_Transformation.pdf)\]<br>
     **Dongrui Liu**, Chuanhcuan Chen, Changqing Xu, Qi Cai, Lei Chu, Fei We, and Robert Qiu<br>
-    accepted by IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT (TIM)
+    accepted by IEEE Transactions on Instrumentation and Measurement (TIM)
     
 * **Interpretable CNNs for Object Classification** \[[pdf](https://zhouhuilin116.github.io/files/PAMI2020_interpretableCNNs.pdf)\]<br>
     Quanshi Zhang, Xin Wang, Ying Nian Wu, **Huilin Zhou**, and Song-Chun Zhu<br>
