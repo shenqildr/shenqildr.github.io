@@ -12,5 +12,5 @@ redirect_from:
 
 Education
 ======
-* B.S. in University of Electronic Science and Technology of China , 2019
-* Ph.D. candidate in Shanghai JiaoTong University, 2019--now
+* B.S. in Northestern University of China , 2018
+* Ph.D. candidate in Shanghai JiaoTong University, 2018--now
