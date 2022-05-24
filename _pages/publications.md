@@ -9,12 +9,32 @@ author_profile: true
 
 Jounal paper
 ======
-* **Interpretable CNNs for Object Classification** \[[pdf](https://zhouhuilin116.github.io/files/PAMI2020_interpretableCNNs.pdf)\]<br>
-    Quanshi Zhang, Xin Wang, Ying Nian Wu, **Huilin Zhou**, and Song-Chun Zhu<br>
-    accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+* **A Robust and Reliable Point Cloud Recognition Network Under Rigid Transformation** \[[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9676569)\]<br>
+    **Dongrui Liu**, Chuanchuan Chen, Changqing Xu, Qi Cai, Lei Chu, Fei Wen, and Robert Qiu<br>
+    accepted by IEEE Transactions on Instrumentation and Measurement (TIM)
+    
+* **GeneCGAN: A conditional generative adversarial network based on genetic tree for point cloud reconstruction** \[[pdf](https://www.sciencedirect.com/science/article/pii/S0925231221011693)\]<br>
+    Chuanchuan Chen, **Dongrui Liu**, Changqing Xu, and Trieu-Kien Truong<br>
+    accepted by Neurocomputing
     
 Conference paper
 ======
-* **Building Interpretable Interaction Trees for Deep NLP Models** \[[pdf](https://zhouhuilin116.github.io/files/AAAI-63.ZhangD.pdf)\]<br>
-    Die Zhang, **HuiLin Zhou**, Hao Zhang, Xiaoyi Bao, Da Huo, Ruizhao Chen, Xu Cheng, Mengyue Wu, Quanshi Zhang<br>
-    accepted by Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
+* **Interpreting Representation Quality of DNNs for 3D Point Cloud Processing** \[[pdf](https://proceedings.neurips.cc/paper/2021/file/4a3e00961a08879c34f91ca0070ea2f5-Paper.pdf)\]<br>
+    Wen Shen, Qihan Ren, **Dongrui Liu**, Quanshi Zhang<br>
+    accepted by 35th Conference on Neural Information Processing Systems (NeurIPS 2021)
+
+Arxiv paper
+======
+    
+* **Self-supervised Point Cloud Registration with Deep Versatile Descriptors** \[[pdf](https://arxiv.org/abs/2201.10034)\]<br>
+    **Dongrui Liu**, Chuanchuan Chen, Changqing Xu, Robert Qiu, and Lei Chu<br>
+    arxiv
+    
+* **Trap of Feature Diversity in the Learning of MLPs** \[[pdf](https://arxiv.org/abs/2112.00980)\]<br>
+    **Dongrui Liu**, Shaobo Wang, Jie Ren, Kangrui Wang, Sheng Yin, Huiqi Deng, and Quanshi Zhang<br>
+    arxiv
+
+* **Point Cloud Registration using Representative Overlapping Points** \[[pdf](https://arxiv.org/abs/2107.02583)\]<br>
+   Lifa Zhu, **Dongrui Liu**, Changwei Lin, Rui Yan, Francisco Gómez-Fernández, Ninghua Yang, and Ziyong Feng<br>
+    arxiv
+    
