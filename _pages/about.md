@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Biography
-I have graduated and received my Bachelor degree from [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/) of [Northestern University](http://www.neu.edu.cn/) in 2018. I am pursuing my Ph.D degree in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am now internshipping in the Prof. [Quanshi Zhang](http://qszhang.com/#) at [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
+I have graduated and received my Bachelor degree from [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/) of [Northestern University](http://www.neu.edu.cn/) in 2018. I am pursuing my Ph.D degree in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am now internshipping in the lab of Prof. [Quanshi Zhang](http://qszhang.com/#) at [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
 
 # Research Interests
 My research interests include topics in machine learning and computer vision.
@@ -18,13 +18,22 @@ Most recently, I am interested in Explainable deep learning and 3D Point Cloud p
 Publication
 ======
 * **A Robust and Reliable Point Cloud Recognition Network Under Rigid Transformation** \[[pdf](https://shenqildr.github.io/files/A_Robust_and_Reliable_Point_Cloud_Recognition_Network_Under_Rigid_Transformation.pdf)\]<br>
-    **Dongrui Liu**, Chuanhcuan Chen, Changqing Xu, Qi Cai, Lei Chu, Fei We, and Robert Qiu<br>
+    **Dongrui Liu**, Chuanhcuan Chen, Changqing Xu, Qi Cai, Lei Chu, Fei Wen, and Robert Qiu<br>
     accepted by IEEE Transactions on Instrumentation and Measurement (TIM)
     
-* **Interpretable CNNs for Object Classification** \[[pdf](https://zhouhuilin116.github.io/files/PAMI2020_interpretableCNNs.pdf)\]<br>
-    Quanshi Zhang, Xin Wang, Ying Nian Wu, **Huilin Zhou**, and Song-Chun Zhu<br>
-    accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
-
-* **Building Interpretable Interaction Trees for Deep NLP Models** \[[pdf](https://zhouhuilin116.github.io/files/AAAI-63.ZhangD.pdf)\]<br>
-    Die Zhang, HuiLin Zhou, Hao Zhang, Xiaoyi Bao, Da Huo, Ruizhao Chen, Xu Cheng, Mengyue Wu, Quanshi Zhang<br>
-    accepted by Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)
+* **GeneCGAN: A conditional generative adversarial network based on genetic tree for point cloud reconstruction** \[[pdf](https://www.sciencedirect.com/science/article/pii/S0925231221011693)\]<br>
+    Chuanhcuan Chen, **Dongrui Liu**, Changqing Xu, and Trieu-Kien Truong<br>
+    accepted by Neurocomputing
+    
+* **Interpreting Representation Quality of DNNs for 3D Point Cloud Processing** \[[pdf](https://proceedings.neurips.cc/paper/2021/file/4a3e00961a08879c34f91ca0070ea2f5-Paper.pdf)\]<br>
+    Wen Shen, Qihan Ren, **Dongrui Liu**, Quanshi Zhang<br>
+    accepted by 35th Conference on Neural Information Processing Systems (NeurIPS 2021)
+    
+* **Self-supervised Point Cloud Registration with Deep Versatile Descriptors** \[[pdf](https://arxiv.org/abs/2201.10034)\]<br>
+    **Dongrui Liu**, Chuanhcuan Chen, Changqing Xu, Robert Qiu, and Lei Chu<br>
+    arxiv
+    
+* **Trap of Feature Diversity in the Learning of MLPs** \[[pdf](https://arxiv.org/abs/2112.00980)\]<br>
+    **Dongrui Liu**, Shaobo Wang, Jie Ren, Kangrui Wang, Sheng Yin, Huiqi Deng, and Quanshi Zhang<br>
+    arxiv
+    
