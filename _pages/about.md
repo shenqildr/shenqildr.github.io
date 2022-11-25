@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Biography
-I have graduated and received my Bachelor degree from [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/) of [Northestern University](http://www.neu.edu.cn/) in 2018. I am pursuing my Ph.D degree in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am now internshipping in the lab of Prof. [Quanshi Zhang](http://qszhang.com/#) at [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
+I have graduated and received my Bachelor degree from [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/) in 2018. I am pursuing my Ph.D degree in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am now internshipping in the lab of Prof. [Quanshi Zhang](http://qszhang.com/#) at [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
 
 # Research Interests
 My research interests include topics in machine learning and computer vision.
