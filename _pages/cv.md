@@ -12,5 +12,5 @@ redirect_from:
 
 Education
 ======
-* B.S. in Northeastern University of China , 2018
+* B.S. in Northeastern University of China, 2018
 * Ph.D. candidate in Shanghai Jiao Tong University, 2018--now
