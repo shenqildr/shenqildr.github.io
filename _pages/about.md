@@ -18,7 +18,7 @@ Most recently, I am interested in Explainable deep learning and 3D point cloud p
 Publication
 ======
 
-* **Self-supervised Point Cloud Registration with Deep Versatile Descriptors for Intelligent Driving** \[[pdf](https://arxiv.org/abs/2201.10034)\]<br>
+* **Self-Supervised Point Cloud Registration with Deep Versatile Descriptors for Intelligent Driving** \[[pdf](https://arxiv.org/abs/2201.10034)\]<br>
     **Dongrui Liu**, Chuanchuan Chen, Changqing Xu, Robert Qiu, and Lei Chu<br>
     accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS)
     
