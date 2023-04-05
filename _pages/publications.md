@@ -27,6 +27,19 @@ Jounal paper
     
 Conference paper
 ======
+
+* **PFMixer: Point Cloud Frequency Mixing** \[[pdf](https://ieeexplore.ieee.org/abstract/document/9883613)\]<br>
+   **Dongrui Liu**, Shiyun Liu, Chuanchuan Chen, Zhengyun Jiang, and Changqing Xu<br>
+    accepted by IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2022)
+
+* **PointFP: A Feature-Preserving Point Cloud Sampling** \[[pdf](https://ieeexplore.ieee.org/abstract/document/9883932)\]<br>
+   **Dongrui Liu**, Chuanchuan Chen, Shiyun Liu, Zhengyun Jiang, and Changqing Xu<br>
+    accepted by IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2022)
+    
+* **Point Clouds Downsampling Based on Complementary Attention and Contrastive Learning** \[[pdf](https://ieeexplore.ieee.org/abstract/document/9883820)\]<br>
+   Chuanchuan Chen, **Dongrui Liu**, and Changqing Xu<br>
+    accepted by IEEE International Geoscience and Remote Sensing Symposium (IGARSS 2022)
+
 * **Interpreting Representation Quality of DNNs for 3D Point Cloud Processing** \[[pdf](https://proceedings.neurips.cc/paper/2021/file/4a3e00961a08879c34f91ca0070ea2f5-Paper.pdf)\]<br>
     Wen Shen, Qihan Ren, **Dongrui Liu**, Quanshi Zhang<br>
     accepted by 35th Conference on Neural Information Processing Systems (NeurIPS 2021)
