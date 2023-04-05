@@ -13,6 +13,14 @@ Jounal paper
     **Dongrui Liu**, Chuanchuan Chen, Changqing Xu, Qi Cai, Lei Chu, Fei Wen, and Robert Qiu<br>
     accepted by IEEE Transactions on Instrumentation and Measurement (TIM)
     
+* **Self-supervised Point Cloud Registration with Deep Versatile Descriptors for Intelligent Driving** \[[pdf](https://arxiv.org/abs/2201.10034)\]<br>
+    **Dongrui Liu**, Chuanchuan Chen, Changqing Xu, Robert Qiu, and Lei Chu<br>
+    accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS)
+    
+* **SAKS: Sampling Adaptive Kernels from Subspace for Point Cloud Graph Convolution** \[[pdf](https://ieeexplore.ieee.org/document/10091154)\]<br>
+    Chuanchuan Chen, **Dongrui Liu**, Changqing Xu, and Trieu-Kien Truong<br>
+    accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+    
 * **GeneCGAN: A conditional generative adversarial network based on genetic tree for point cloud reconstruction** \[[pdf](https://www.sciencedirect.com/science/article/pii/S0925231221011693)\]<br>
     Chuanchuan Chen, **Dongrui Liu**, Changqing Xu, and Trieu-Kien Truong<br>
     accepted by Neurocomputing
@@ -26,10 +34,6 @@ Conference paper
 Arxiv paper
 ======
     
-* **Self-supervised Point Cloud Registration with Deep Versatile Descriptors** \[[pdf](https://arxiv.org/abs/2201.10034)\]<br>
-    **Dongrui Liu**, Chuanchuan Chen, Changqing Xu, Robert Qiu, and Lei Chu<br>
-    arxiv
-    
 * **Trap of Feature Diversity in the Learning of MLPs** \[[pdf](https://arxiv.org/abs/2112.00980)\]<br>
     **Dongrui Liu**, Shaobo Wang, Jie Ren, Kangrui Wang, Sheng Yin, Huiqi Deng, and Quanshi Zhang<br>
     arxiv
@@ -37,4 +41,4 @@ Arxiv paper
 * **Point Cloud Registration using Representative Overlapping Points** \[[pdf](https://arxiv.org/abs/2107.02583)\]<br>
    Lifa Zhu, **Dongrui Liu**, Changwei Lin, Rui Yan, Francisco Gómez-Fernández, Ninghua Yang, and Ziyong Feng<br>
     arxiv
-    
+
