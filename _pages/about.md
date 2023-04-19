@@ -13,7 +13,7 @@ I am pursuing my Ph.D degree in [Shanghai Jiao Tong University](https://www.sjtu
 
 # Research Interests
 My research interests include topics in machine learning and computer vision.
-Most recently, I am interested in Explainable deep learning and 3D point cloud processing. I'm also open to colloboration. Feel free to drop me an email through drliu96@sjtu.edu.cn.
+Most recently, I am interested in Explainable deep learning and 3D point cloud processing. If you are interested in my works, please feel free to drop me an email through drliu96@sjtu.edu.cn.
 
 Publication
 ======
