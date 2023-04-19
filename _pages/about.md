@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 # Biography
-I have graduated and received my Bachelor degree from [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/) in 2018. I am pursuing my Ph.D degree in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am now internshipping in the lab of Prof. [Quanshi Zhang](http://qszhang.com/#) at [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/).
+I am pursuing my Ph.D degree in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am now internshipping in the lab of Prof. [Quanshi Zhang](http://qszhang.com/#) at [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Prior to SJTU, I have received my Bachelor degree from [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/) in 2018.
 
 # Research Interests
 My research interests include topics in machine learning and computer vision.
-Most recently, I am interested in Explainable deep learning and 3D point cloud processing.
+Most recently, I am interested in Explainable deep learning and 3D point cloud processing. I'm also open to colloboration. Feel free to drop me an email through drliu96@sjtu.edu.cn.
 
 Publication
 ======
