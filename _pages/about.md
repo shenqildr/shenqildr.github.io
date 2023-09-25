@@ -18,6 +18,10 @@ Most recently, I am interested in Explainable deep learning and 3D point cloud p
 Publications
 ======
 
+* **Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities** \[[pdf]([https://arxiv.org/abs/2201.10034](https://openreview.net/forum?id=mZ3hnyL9bS&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2023%2FConference%2FAuthors%23your-submissions)))\]<br>
+    **Dongrui Liu**, Huiqi Deng, Xu Cheng, Qihan Ren, Kangrui Wang, and Quanshi Zhang<br>
+    accepted by 37th Conference on Neural Information Processing Systems (NeurIPS 2023)
+
 * **Self-Supervised Point Cloud Registration with Deep Versatile Descriptors for Intelligent Driving** \[[pdf](https://arxiv.org/abs/2201.10034)\]<br>
     **Dongrui Liu**, Chuanchuan Chen, Changqing Xu, Robert Qiu, and Lei Chu<br>
     accepted by IEEE Transactions on Intelligent Transportation Systems (T-ITS)
