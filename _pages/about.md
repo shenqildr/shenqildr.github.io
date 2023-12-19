@@ -18,6 +18,10 @@ Most recently, I am interested in Explainable deep learning and 3D point cloud p
 Publications
 ======
 
+* **Explaining Generalization Power of a DNN using Interactive Concepts** \[[pdf](https://arxiv.org/abs/2302.13091)\]<br>
+    Huilin Zhou, Hao Zhang, Huiqi Deng, *Dongrui Liu*, Wen Shen, Shih-Han Chan, and Quanshi Zhang<br>
+    accepted by AAAI 2024
+
 * **Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities** \[[pdf](https://nips.cc/virtual/2023/poster/70547)\]<br>
     **Dongrui Liu**, Huiqi Deng, Xu Cheng, Qihan Ren, Kangrui Wang, and Quanshi Zhang<br>
     accepted by 37th Conference on Neural Information Processing Systems (NeurIPS 2023)
