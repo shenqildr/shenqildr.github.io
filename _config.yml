@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Dongrui Liu"
 title_separator          : "-"
-name                     : &name "Dongrui Liu"
+name                     : &name "Dongrui Liu 刘东瑞"
 description              : &description "Ph.D. Candidate"
 url                      : https://shenqildr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
