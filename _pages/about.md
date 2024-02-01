@@ -14,7 +14,7 @@ Currently, I am working at the Shanghai AI lab as a research fellow. I got Ph.D.
 
 # Research Interests
 My research interests include topics in machine learning.
-Most recently, I am interested in the explainability and safety of multi-modal foundation models and 3D point cloud processing. **We are looking for research interns to work together on the safety/robustness/explainability of foundation models. Please drop me an email if you are interested.**
+Most recently, I am interested in the explainability and safety of multi-modal foundation models and 3D point cloud processing. **We are looking for cooperation and research interns to work together on the safety/robustness/explainability of foundation models. Please drop me an email liudongrui@pjlab.org.cn if you are interested.**
 
 Publications
 ======
