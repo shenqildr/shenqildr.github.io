@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dongrui Liu"
 title_separator          : "-"
 name                     : &name "Dongrui Liu 刘东瑞"
-description              : &description "Ph.D. Candidate"
+description              : &description "Ph.D"
 url                      : https://shenqildr.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shenqildr.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dongrui Liu"
+  name             : "Dongrui Liu 刘东瑞"
   avatar           : "Dongrui_Liu.png"
-  bio              : "Ph.D. Candidate, Shanghai Jiao Tong University"
+  bio              : "Research Fellow, Shanghai AI Lab"
   location         : "Shanghai, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
