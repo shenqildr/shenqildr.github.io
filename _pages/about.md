@@ -9,11 +9,12 @@ redirect_from:
 ---
 
 # Biography
-I am pursuing my Ph.D degree in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I am now internshipping in the lab of Prof. [Quanshi Zhang](http://qszhang.com/#) at [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/) of [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). Prior to SJTU, I have received my Bachelor degree from [School of Computer Science and Engineering](http://www.cse.neu.edu.cn/) of [Northeastern University](http://www.neu.edu.cn/) in 2018.
+
+Currently, I am working at the Shanghai AI lab as a research fellow. I got Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#) at [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/). Before that, I received my B.Sc. degree from Northeastern University.
 
 # Research Interests
-My research interests include topics in machine learning and computer vision.
-Most recently, I am interested in Explainable deep learning and 3D point cloud processing. If you are interested in my works, please feel free to drop me an email through drliu96@sjtu.edu.cn.
+My research interests include topics in machine learning.
+Most recently, I am interested in the explainability and safety of multi-modal foundation models and 3D point cloud processing. **We are looking for research interns to work together on the safety/robustness/explainability of foundation models. Please drop me an email if you are interested.**
 
 Publications
 ======
