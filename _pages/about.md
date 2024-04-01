@@ -19,8 +19,17 @@ Most recently, I am interested in the explainability and safety of multi-modal f
 Publications
 ======
 
+* **Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models** \[[pdf](https://arxiv.org/pdf/2402.19465.pdf)\]<br>
+    Chen Qian, Jie Zhang, Wei Yao, **Dongrui Liu**, Zhenfei Yin, Yu Qiao, Yong Liu, Jing Shao<br> on Arxiv
+
+* **Identifying Semantic Induction Heads to Understand In-Context Learning** \[[pdf](https://arxiv.org/pdf/2402.13055.pdf)\]<br>
+    Jie Ren, Qipeng Guo, Hang Yan, **Dongrui Liu**, Xipeng Qiu, Dahua Lin<br> on Arxiv
+
 * **Explaining Generalization Power of a DNN using Interactive Concepts** \[[pdf](https://arxiv.org/abs/2302.13091)\]<br>
     Huilin Zhou, Hao Zhang, Huiqi Deng, **Dongrui Liu**, Wen Shen, Shih-Han Chan, and Quanshi Zhang<br> accepted by AAAI 2024
+
+* **Self-Supervised Multi-Frame Neural Scene Flow** \[[pdf](https://arxiv.org/pdf/2403.16116v1.pdf)\]<br>
+    **Dongrui Liu**, Daqi Liu, Xueqian Li, Sihao Lin, Bing Wang, Xiaojun Chang, Lei Chu<br> on Arxiv
 
 * **Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities** \[[pdf](https://nips.cc/virtual/2023/poster/70547)\]<br>
     **Dongrui Liu**, Huiqi Deng, Xu Cheng, Qihan Ren, Kangrui Wang, and Quanshi Zhang<br>
