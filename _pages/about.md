@@ -31,7 +31,7 @@ Publications
 * **Self-Supervised Multi-Frame Neural Scene Flow** \[[pdf](https://arxiv.org/pdf/2403.16116v1.pdf)\]<br>
     **Dongrui Liu**, Daqi Liu, Xueqian Li, Sihao Lin, Bing Wang, Xiaojun Chang, and Lei Chu<br> on Arxiv
 
-* **MLP Can Be A Good Transformer Learner** \[[pdf](https://arxiv.org/pdf/2403.16116v1.pdf)\]<br>
+* **MLP Can Be A Good Transformer Learner** \[[pdf](https://arxiv.org/pdf/2404.05657.pdf)\]<br>
     Sihao Lin, Pumeng Lyu, **Dongrui Liu**, Tao Tang, Xiaodan Liang, Andy Song, and Xiaojun Chang<br> accepted by CVPR 2024 (oral)
 
 * **Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities** \[[pdf](https://nips.cc/virtual/2023/poster/70547)\]<br>
