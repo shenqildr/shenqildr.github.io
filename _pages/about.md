@@ -10,11 +10,10 @@ redirect_from:
 
 # Biography
 
-Currently, I am working at the Shanghai AI lab as a research fellow. I got Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). I was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#) at [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/). Before that, I received my B.Sc. degree from Northeastern University.
+Currently, I am working at the Shanghai AI lab as a research fellow. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
 
 # Research Interests
-My research interests include topics in machine learning.
-Most recently, I am interested in the explainability and safety of multi-modal foundation models and 3D point cloud processing. **We are looking for cooperation and research interns to work together on the safety/robustness/explainability of foundation models. Please drop me an email liudongrui@pjlab.org.cn if you are interested.**
+My research interests include topics in the explainability and safety of multi-modal foundation models. **We are looking for cooperation and research interns to work together on the safety/robustness/explainability of foundation models. Please drop me an email liudongrui@pjlab.org.cn if you are interested.**
 
 Publications
 ======
