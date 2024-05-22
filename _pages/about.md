@@ -19,10 +19,10 @@ Publications
 ======
 
 * **Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models** \[[pdf](https://arxiv.org/pdf/2402.19465.pdf)\]<br>
-    Chen Qian, Jie Zhang, Wei Yao, **Dongrui Liu**, Zhenfei Yin, Yu Qiao, Yong Liu, and Jing Shao<br> accepted by AAAI 2024
+    Chen Qian, Jie Zhang, Wei Yao, **Dongrui Liu**, Zhenfei Yin, Yu Qiao, Yong Liu, and Jing Shao<br> accepted by ACL 2024
 
 * **Identifying Semantic Induction Heads to Understand In-Context Learning** \[[pdf](https://arxiv.org/pdf/2402.13055.pdf)\]<br>
-    Jie Ren, Qipeng Guo, Hang Yan, **Dongrui Liu**, Xipeng Qiu, and Dahua Lin<br> accepted by AAAI 2024
+    Jie Ren, Qipeng Guo, Hang Yan, **Dongrui Liu**, Xipeng Qiu, and Dahua Lin<br> accepted by ACL 2024
 
 * **Explaining Generalization Power of a DNN using Interactive Concepts** \[[pdf](https://arxiv.org/abs/2302.13091)\]<br>
     Huilin Zhou, Hao Zhang, Huiqi Deng, **Dongrui Liu**, Wen Shen, Shih-Han Chan, and Quanshi Zhang<br> accepted by AAAI 2024
