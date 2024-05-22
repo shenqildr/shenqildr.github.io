@@ -10,7 +10,7 @@ redirect_from:
 
 # Biography
 
-Currently, I am working at the Shanghai AI lab as a research fellow. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
+Currently, I am working at the Shanghai AI lab as a Research Fellow. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
 
 # Research Interests
 My research interests include topics in the explainability and safety of multi-modal foundation models. **We are looking for cooperation and research interns to work together on the safety/robustness/explainability of foundation models. Please drop me an email liudongrui@pjlab.org.cn if you are interested.**
@@ -19,10 +19,10 @@ Publications
 ======
 
 * **Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models** \[[pdf](https://arxiv.org/pdf/2402.19465.pdf)\]<br>
-    Chen Qian, Jie Zhang, Wei Yao, **Dongrui Liu**, Zhenfei Yin, Yu Qiao, Yong Liu, and Jing Shao<br> on Arxiv
+    Chen Qian, Jie Zhang, Wei Yao, **Dongrui Liu**, Zhenfei Yin, Yu Qiao, Yong Liu, and Jing Shao<br> accepted by AAAI 2024
 
 * **Identifying Semantic Induction Heads to Understand In-Context Learning** \[[pdf](https://arxiv.org/pdf/2402.13055.pdf)\]<br>
-    Jie Ren, Qipeng Guo, Hang Yan, **Dongrui Liu**, Xipeng Qiu, and Dahua Lin<br> on Arxiv
+    Jie Ren, Qipeng Guo, Hang Yan, **Dongrui Liu**, Xipeng Qiu, and Dahua Lin<br> accepted by AAAI 2024
 
 * **Explaining Generalization Power of a DNN using Interactive Concepts** \[[pdf](https://arxiv.org/abs/2302.13091)\]<br>
     Huilin Zhou, Hao Zhang, Huiqi Deng, **Dongrui Liu**, Wen Shen, Shih-Han Chan, and Quanshi Zhang<br> accepted by AAAI 2024
