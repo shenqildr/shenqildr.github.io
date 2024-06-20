@@ -28,7 +28,7 @@ Publications
     **Dongrui Liu**, Daqi Liu, Xueqian Li, Sihao Lin, Bing Wang, Xiaojun Chang, and Lei Chu<br> on Arxiv
 
 * **MLP Can Be A Good Transformer Learner** \[[pdf](https://arxiv.org/pdf/2404.05657.pdf)\]<br>
-    Sihao Lin, Pumeng Lyu, **Dongrui Liu**, Tao Tang, Xiaodan Liang, Andy Song, and Xiaojun Chang<br> accepted by CVPR 2024 (Best Paper Award Candidates)
+    Sihao Lin, Pumeng Lyu, **Dongrui Liu**, Tao Tang, Xiaodan Liang, Andy Song, and Xiaojun Chang<br> accepted by CVPR 2024 (**Best Paper Award Candidates**)
 
 * **Explaining Generalization Power of a DNN using Interactive Concepts** \[[pdf](https://arxiv.org/abs/2302.13091)\]<br>
     Huilin Zhou, Hao Zhang, Huiqi Deng, **Dongrui Liu**, Wen Shen, Shih-Han Chan, and Quanshi Zhang<br> accepted by AAAI 2024
