@@ -24,14 +24,14 @@ Publications
 * **Identifying Semantic Induction Heads to Understand In-Context Learning** \[[pdf](https://arxiv.org/pdf/2402.13055.pdf)\]<br>
     Jie Ren, Qipeng Guo, Hang Yan, **Dongrui Liu**, Xipeng Qiu, and Dahua Lin<br> accepted by ACL 2024
 
-* **Explaining Generalization Power of a DNN using Interactive Concepts** \[[pdf](https://arxiv.org/abs/2302.13091)\]<br>
-    Huilin Zhou, Hao Zhang, Huiqi Deng, **Dongrui Liu**, Wen Shen, Shih-Han Chan, and Quanshi Zhang<br> accepted by AAAI 2024
-
 * **Self-Supervised Multi-Frame Neural Scene Flow** \[[pdf](https://arxiv.org/pdf/2403.16116v1.pdf)\]<br>
     **Dongrui Liu**, Daqi Liu, Xueqian Li, Sihao Lin, Bing Wang, Xiaojun Chang, and Lei Chu<br> on Arxiv
 
 * **MLP Can Be A Good Transformer Learner** \[[pdf](https://arxiv.org/pdf/2404.05657.pdf)\]<br>
-    Sihao Lin, Pumeng Lyu, **Dongrui Liu**, Tao Tang, Xiaodan Liang, Andy Song, and Xiaojun Chang<br> accepted by CVPR 2024 (oral)
+    Sihao Lin, Pumeng Lyu, **Dongrui Liu**, Tao Tang, Xiaodan Liang, Andy Song, and Xiaojun Chang<br> accepted by CVPR 2024 (Best Paper Award Candidates)
+
+* **Explaining Generalization Power of a DNN using Interactive Concepts** \[[pdf](https://arxiv.org/abs/2302.13091)\]<br>
+    Huilin Zhou, Hao Zhang, Huiqi Deng, **Dongrui Liu**, Wen Shen, Shih-Han Chan, and Quanshi Zhang<br> accepted by AAAI 2024
 
 * **Towards the Difficulty for a Deep Neural Network to Learn Concepts of Different Complexities** \[[pdf](https://nips.cc/virtual/2023/poster/70547)\]<br>
     **Dongrui Liu**, Huiqi Deng, Xu Cheng, Qihan Ren, Kangrui Wang, and Quanshi Zhang<br>
