@@ -15,6 +15,10 @@ Currently, I am working at the Shanghai AI lab as a Research Fellow. I got a Ph.
 # Research Interests
 My research interests include topics in the explainability and safety of multi-modal foundation models. **We are looking for cooperation and research interns to work together on the safety/robustness/explainability of foundation models. Please drop me an email liudongrui@pjlab.org.cn if you are interested.**
 
+Academic Services
+======
+**Reviewer**: ICML, CVPR, ICCV, ECCV, NeurIPS, ICLR, AISTATS, ICRA, PAMI, IJCV, TKDE, TVCG, TCSVT
+
 Publications
 ======
 
@@ -78,9 +82,7 @@ Publications
     accepted by 35th Conference on Neural Information Processing Systems (NeurIPS 2021)
 
     
-Academic Services
-======
-**Reviewer**: ICML, CVPR, ICCV, ECCV, NeurIPS, ICLR, AISTATS, ICRA, PAMI, IJCV, TKDE, TVCG, TCSVT
+
     
 
     
