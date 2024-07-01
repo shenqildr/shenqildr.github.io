@@ -80,7 +80,7 @@ Publications
     
 Academic Services
 ======
-**Reviewer**: ICML, CVPR, ICCV, ECCV, NeurIPS, ICLR, AISTATS, ICRA, IGARSS, PAMI, IJCV, TKDE, TVCG, TCSVT
+**Reviewer**: ICML, CVPR, ICCV, ECCV, NeurIPS, ICLR, AISTATS, ICRA, PAMI, IJCV, TKDE, TVCG, TCSVT
     
 
     
