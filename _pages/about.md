@@ -10,10 +10,17 @@ redirect_from:
 
 # Biography
 
-Currently, I am working at the Shanghai AI lab as a Research Fellow. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
+Currently, I am working at the Shanghai AI Lab as a Research Fellow. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
 
-# Research Interests
 My research interests include topics in the explainability and safety of multi-modal foundation models. **We are looking for cooperation and research interns to work together on the safety/robustness/explainability of foundation models. Please drop me an email liudongrui@pjlab.org.cn if you are interested.**
+
+Selected Awards
+======
+* CVPR 2024 Best Paper Candidates 
+* Outstanding Graduate Student, Shanghai Jiao Tong University
+* Longhu Scholarship
+* National Scholarship
+* Wireless Scholarship
 
 Academic Services
 ======
@@ -21,6 +28,11 @@ Academic Services
 
 Publications
 ======
+* **Towards the Dynamics of a DNN Learning Symbolic Interactions** \[[pdf](https://arxiv.org/pdf/2407.19198.pdf)\]<br>
+    Qihan Ren, Yang Xu, Junpeng Zhang, Yue Xin, **Dongrui Liu**, Quanshi Zhang<br> Arxiv
+  
+* **The Better Angels of Machine Personality: How Personality Relates to LLM Safety** \[[pdf](https://arxiv.org/abs/2407.12344.pdf)\]<br>
+    Jie Zhang, **Dongrui Liu**, Chen Qian, Ziyue Gan, Yu Qiao, Yong Liu, and Jing Shao<br> Arxiv
 
 * **Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models** \[[pdf](https://arxiv.org/pdf/2402.19465.pdf)\]<br>
     Chen Qian, Jie Zhang, Wei Yao, **Dongrui Liu**, Zhenfei Yin, Yu Qiao, Yong Liu, and Jing Shao<br> accepted by ACL 2024
@@ -29,7 +41,7 @@ Publications
     Jie Ren, Qipeng Guo, Hang Yan, **Dongrui Liu**, Xipeng Qiu, and Dahua Lin<br> accepted by ACL 2024
 
 * **Self-Supervised Multi-Frame Neural Scene Flow** \[[pdf](https://arxiv.org/pdf/2403.16116v1.pdf)\]<br>
-    **Dongrui Liu**, Daqi Liu, Xueqian Li, Sihao Lin, Bing Wang, Xiaojun Chang, and Lei Chu<br> on Arxiv
+    **Dongrui Liu**, Daqi Liu, Xueqian Li, Sihao Lin, Hongwei Xie, Bing Wang, Xiaojun Chang, and Lei Chu<br> on Arxiv
 
 * **MLP Can Be A Good Transformer Learner** \[[pdf](https://arxiv.org/pdf/2404.05657.pdf)\]<br>
     Sihao Lin, Pumeng Lyu, **Dongrui Liu**, Tao Tang, Xiaodan Liang, Andy Song, and Xiaojun Chang<br> accepted by CVPR 2024 (**Best Paper Award Candidates**)
