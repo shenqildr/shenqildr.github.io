@@ -12,7 +12,7 @@ redirect_from:
 
 Currently, I am working at the Shanghai AI Lab as a Research Fellow. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
 
-My research interests include topics in the trustworthiness of multi-modal foundation models. **We are looking for full-time employees, interns, and joint PhDs (with THU/SJTU/FDU/ZJU/USTC, etc) to work together on foundation models' safety/robustness/explainability. Please drop me an email liudongrui@pjlab.org.cn if you are interested.**
+My research interests include topics in the trustworthiness of multi-modal foundation models. **We are looking for full-time employees, interns, and joint PhDs (with SJTU/FDU, etc) to work together on foundation models' safety/robustness/explainability. Please drop me an email liudongrui@pjlab.org.cn if you are interested.**
 
 Selected Awards
 ======
