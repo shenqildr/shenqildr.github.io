@@ -12,7 +12,7 @@ redirect_from:
 
 Currently, I am working at the Shanghai AI Lab as a Research Fellow. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
 
-My research interests include topics in the explainability and safety of multi-modal foundation models. **We are looking for cooperation and research interns to work together on the safety/robustness/explainability of foundation models. Please drop me an email liudongrui@pjlab.org.cn if you are interested.**
+My research interests include topics in the trustworthiness of multi-modal foundation models. **We are looking for full-time employees, interns, and joint PhDs (with THU/SJTU/FDU/ZJU/USTC, etc) to work together on foundation models' safety/robustness/explainability. Please drop me an email liudongrui@pjlab.org.cn if you are interested.**
 
 Selected Awards
 ======
@@ -28,8 +28,21 @@ Academic Services
 
 Publications
 ======
+* **DEAN: Deactivating the Coupled Neurons to Mitigate Fairness-Privacy Conflicts in Large Language Models** \[[pdf](https://arxiv.org/pdf/2410.16672.pdf)\]<br>
+    Chen Qian, **Dongrui Liu**, Jie Zhang, Yong Liu, Jing Shao<br>
+
+* **REEF: Representation Encoding Fingerprints for Large Language Models** \[[pdf](https://arxiv.org/pdf/2410.14273.pdf)\]<br>
+    Jie Zhang, **Dongrui Liu**, Chen Qian, Linfeng Zhang, Yong Liu, Yu Qiao, Jing Shao<br>
+
+* **Decouple-Then-Merge: Towards Better Training for Diffusion Models** \[[pdf](https://arxiv.org/pdf/2410.06664.pdf)\]<br>
+    Qianli Ma, Xuefei Ning, **Dongrui Liu**, Li Niu, Linfeng Zhang<br>
+  
+* **Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues** \[[pdf](https://arxiv.org/pdf/2410.10700.pdf)\]<br>
+    Qibing Ren, Hao Li, **Dongrui Liu**, Zhanxu Xie, Xiaoya Lu, Yu Qiao, Lei Sha, Junchi Yan, Lizhuang Ma, Jing Shao<br>
+  
 * **Towards the Dynamics of a DNN Learning Symbolic Interactions** \[[pdf](https://arxiv.org/pdf/2407.19198.pdf)\]<br>
-    Qihan Ren, Yang Xu, Junpeng Zhang, Yue Xin, **Dongrui Liu**, Quanshi Zhang<br> Arxiv
+    Qihan Ren, Yang Xu, Junpeng Zhang, Yue Xin, **Dongrui Liu**, Quanshi Zhang<br>
+    accepted by 37th Conference on Neural Information Processing Systems (NeurIPS 2024)
   
 * **The Better Angels of Machine Personality: How Personality Relates to LLM Safety** \[[pdf](https://arxiv.org/abs/2407.12344.pdf)\]<br>
     Jie Zhang, **Dongrui Liu**, Chen Qian, Ziyue Gan, Yu Qiao, Yong Liu, and Jing Shao<br> Arxiv
