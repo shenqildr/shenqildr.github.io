@@ -18,8 +18,8 @@ Selected Awards
 ======
 * CVPR 2024 Best Paper Candidates 
 * Outstanding Graduate Student, Shanghai Jiao Tong University
-* Longhu Scholarship
 * National Scholarship
+* Longhu Scholarship
 * Wireless Scholarship
 
 Academic Services
@@ -28,6 +28,12 @@ Academic Services
 
 Publications
 ======
+* **Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey** \[[pdf](https://arxiv.org/pdf/2412.02104.pdf)\]<br>
+    Yunkai Dang, Kaichen Huang, Jiahao Huo, Yibo Yan, Sirui Huang, **Dongrui Liu**, Mengxi Gao, Jie Zhang, Chen Qian, Kun Wang, Yong Liu, Jing Shao, Hui Xiong, Xuming Hu<br>
+    
+* **VLSBench: Unveiling Visual Leakage in Multimodal Safety** \[[pdf](https://arxiv.org/pdf/2411.19939.pdf)\]<br>
+    Xuhao Hu, **Dongrui Liu**, Hao Li, Xuanjing Huang, Jing Shao<br>
+    
 * **DEAN: Deactivating the Coupled Neurons to Mitigate Fairness-Privacy Conflicts in Large Language Models** \[[pdf](https://arxiv.org/pdf/2410.16672.pdf)\]<br>
     Chen Qian, **Dongrui Liu**, Jie Zhang, Yong Liu, Jing Shao<br>
 
