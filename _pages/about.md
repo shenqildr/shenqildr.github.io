@@ -12,22 +12,23 @@ redirect_from:
 
 Currently, I am working at the Shanghai AI Lab as a Research Fellow. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
 
-My research interests include topics in the trustworthiness of multi-modal foundation models. **We are looking for full-time employees, interns, and joint PhDs (with SJTU/FDU, etc) to work together on foundation models' safety/robustness/explainability. Please drop me an email liudongrui@pjlab.org.cn if you are interested.**
+My research interests include topics in the trustworthiness of multi-modal foundation models. **We are looking for full-time employees, interns, and joint PhDs (with SJTU/FDU, etc) to work together on foundation models and agents' safety/robustness/explainability. Please drop me an email at liudongrui@pjlab.org.cn if you are interested.**
 
 Selected Awards
 ======
 * CVPR 2024 Best Paper Candidates 
 * Outstanding Graduate Student, Shanghai Jiao Tong University
 * National Scholarship
-* Longhu Scholarship
-* Wireless Scholarship
 
 Academic Services
 ======
-**Reviewer**: ICML, CVPR, ICCV, ECCV, NeurIPS, ICLR, AISTATS, ICRA, PAMI, IJCV, TKDE, TVCG, TCSVT
+**Reviewer**: ICML, CVPR, ICCV, ECCV, NeurIPs, ICLR, AAAI, AISTATS, ICRA, IROS, PAMI, IJCV, TKDE, TVCG, TCSVT, T-ITS
 
 Publications
 ======
+* **Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking** \[[pdf](https://arxiv.org/pdf/2502.01667.pdf)\]<br>
+    Jie Ren, Yuhang Zhang, **Dongrui Liu**, Xiaopeng Zhang, and Qi Tian<br>
+  
 * **Explainable and Interpretable Multimodal Large Language Models: A Comprehensive Survey** \[[pdf](https://arxiv.org/pdf/2412.02104.pdf)\]<br>
     Yunkai Dang, Kaichen Huang, Jiahao Huo, Yibo Yan, Sirui Huang, **Dongrui Liu**, Mengxi Gao, Jie Zhang, Chen Qian, Kun Wang, Yong Liu, Jing Shao, Hui Xiong, Xuming Hu<br>
     
