@@ -26,6 +26,9 @@ Academic Services
 
 Publications
 ======
+* **SEER: Self-Explainability Enhancement of Large Language Models’ Representations** \[[pdf](https://arxiv.org/pdf/2502.05242.pdf)\]<br>
+    Guanxu Chen, **Dongrui Liu**, Tao Luo, Jing Shao<br>
+    
 * **Refining Alignment Framework for Diffusion Models with Intermediate-Step Preference Ranking** \[[pdf](https://arxiv.org/pdf/2502.01667.pdf)\]<br>
     Jie Ren, Yuhang Zhang, **Dongrui Liu**, Xiaopeng Zhang, and Qi Tian<br>
   
@@ -39,7 +42,7 @@ Publications
     Chen Qian, **Dongrui Liu**, Jie Zhang, Yong Liu, Jing Shao<br>
 
 * **REEF: Representation Encoding Fingerprints for Large Language Models** \[[pdf](https://arxiv.org/pdf/2410.14273.pdf)\]<br>
-    Jie Zhang, **Dongrui Liu**, Chen Qian, Linfeng Zhang, Yong Liu, Yu Qiao, Jing Shao<br>
+    Jie Zhang, **Dongrui Liu**, Chen Qian, Linfeng Zhang, Yong Liu, Yu Qiao, Jing Shao<br> accepted by ICLR 2025 (Oral)
 
 * **Decouple-Then-Merge: Towards Better Training for Diffusion Models** \[[pdf](https://arxiv.org/pdf/2410.06664.pdf)\]<br>
     Qianli Ma, Xuefei Ning, **Dongrui Liu**, Li Niu, Linfeng Zhang<br>
