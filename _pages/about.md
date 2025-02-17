@@ -26,6 +26,9 @@ Academic Services
 
 Publications
 ======
+* **X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability** \[[pdf](https://arxiv.org/pdf/2502.09990.pdf)\]<br>
+    Xiaoya Lu, **Dongrui Liu**, Yi Yu, Luxin Xu, Jing Shao<br>
+    
 * **SEER: Self-Explainability Enhancement of Large Language Models’ Representations** \[[pdf](https://arxiv.org/pdf/2502.05242.pdf)\]<br>
     Guanxu Chen, **Dongrui Liu**, Tao Luo, Jing Shao<br>
     
