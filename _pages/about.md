@@ -22,10 +22,13 @@ Selected Awards
 
 Academic Services
 ======
-**Reviewer**: ICML, CVPR, ICCV, ECCV, NeurIPs, ICLR, AAAI, AISTATS, ICRA, IROS, PAMI, IJCV, TKDE, TVCG, TCSVT, T-ITS
+**Reviewer**: ICML, CVPR, ICCV, ECCV, NeurIPs, ICLR, AAAI, ACL, AISTATS, ICRA, IROS, PAMI, IJCV, TKDE, TVCG, TCSVT, T-ITS
 
 Publications
 ======
+* **LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint** \[[pdf](https://arxiv.org/pdf/2502.16770.pdf)\]<br>
+    Qianli Ma, **Dongrui Liu**, Qian Chen, Linfeng Zhang, Jing Shao<br>
+    
 * **X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability** \[[pdf](https://arxiv.org/pdf/2502.09990.pdf)\]<br>
     Xiaoya Lu, **Dongrui Liu**, Yi Yu, Luxin Xu, Jing Shao<br>
     
