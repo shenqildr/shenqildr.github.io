@@ -12,7 +12,7 @@ redirect_from:
 
 Currently, I am working at the Shanghai AI Lab as a Research Fellow. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
 
-My research interests include topics in the trustworthiness of multi-modal foundation models. **We are looking for full-time employees, interns, and joint PhDs (with SJTU/FDU, etc) to work together on foundation models and agents' safety/robustness/explainability. Please drop me an email at liudongrui@pjlab.org.cn if you are interested.**
+My research interests include topics in the trustworthiness of multi-modal foundation models. **We are looking for full-time employees, interns, and joint PhDs (with SJTU/FDU, etc) to work together on foundation models and agents' efficient reasoning and safety/robustness/explainability. Please drop me an email at liudongrui@pjlab.org.cn if you are interested.**
 
 Selected Awards
 ======
@@ -26,6 +26,9 @@ Academic Services
 
 Publications
 ======
+* **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond** \[[pdf](https://arxiv.org/pdf/2503.21614.pdf)\]<br>
+    Xiaoye Qu, Yafu Li, Zhaochen Su, Weigao Sun, Jianhao Yan, **Dongrui Liu**, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu1, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng<br>
+    
 * **LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint** \[[pdf](https://arxiv.org/pdf/2502.16770.pdf)\]<br>
     Qianli Ma, **Dongrui Liu**, Qian Chen, Linfeng Zhang, Jing Shao<br>
     
