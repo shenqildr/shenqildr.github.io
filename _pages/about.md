@@ -14,17 +14,20 @@ redirect_from:
 Currently, I am working at the Shanghai AI Lab as a Research Fellow. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
 
 My research interests include topics in the trustworthiness of multi-modal foundation models. **We are looking for full-time employees, interns, and joint PhDs (with SJTU/FDU, etc) to work together on foundation models and agents' efficient reasoning and safety/robustness/explainability. Please drop me an email at liudongrui@pjlab.org.cn if you are interested.**
-
+---
 
 # Selected Awards
 ---
-* CVPR 2024 Best Paper Candidates 
+* CVPR 2024 Best Paper Candidate
 * Outstanding Graduate Student, Shanghai Jiao Tong University
 * National Scholarship
+---
 
 # Academic Services
 ---
+**Area Chair**: NeurIPs 2025 Position Paper Track
 **Reviewer**: ICML, CVPR, ICCV, ECCV, NeurIPs, ICLR, AAAI, ACL, AISTATS, ICRA, IROS, PAMI, IJCV, TKDE, TVCG, TCSVT, T-ITS
+---
 
 # Publications
 ---
