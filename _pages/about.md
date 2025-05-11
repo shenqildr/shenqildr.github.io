@@ -27,7 +27,7 @@ My research interests include topics in the trustworthiness of multi-modal found
 
 # Academic Services
 
-**Area Chair**: NeurIPs 2025 Position Paper Track
+**Area Chair**: NeurIPs 2025 Position Paper Track  
 **Reviewer**: ICML, CVPR, ICCV, ECCV, NeurIPs, ICLR, AAAI, ACL, AISTATS, ICRA, IROS, PAMI, IJCV, TKDE, TVCG, TCSVT, T-ITS
 
 ---
