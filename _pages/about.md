@@ -13,7 +13,9 @@ redirect_from:
 
 Currently, I am working at the Shanghai AI Lab as a Research Fellow. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
 
-My research interests include topics in the trustworthiness of multi-modal foundation models. **We are looking for full-time employees, interns, and joint PhDs (with SJTU/FDU, etc) to work together on foundation models and agents' efficient reasoning and safety/robustness/explainability. Please drop me an email at liudongrui@pjlab.org.cn if you are interested.**
+My research interests include topics in the trustworthiness of multi-modal foundation models and agents. 
+
+**We are looking for full-time employees, interns, and joint PhDs (with SJTU/FDU, etc) to work together on foundation models and agents' efficient reasoning and safety/robustness/explainability. Please drop me an email at liudongrui@pjlab.org.cn if you are interested.**
 
 ---
 
@@ -62,7 +64,7 @@ My research interests include topics in the trustworthiness of multi-modal found
     Jie Zhang, **Dongrui Liu**, Chen Qian, Linfeng Zhang, Yong Liu, Yu Qiao, Jing Shao<br> accepted by ICLR 2025 (Oral)
 
 * **Decouple-Then-Merge: Towards Better Training for Diffusion Models** \[[pdf](https://arxiv.org/pdf/2410.06664.pdf)\]<br>
-    Qianli Ma, Xuefei Ning, **Dongrui Liu**, Li Niu, Linfeng Zhang<br>
+    Qianli Ma, Xuefei Ning, **Dongrui Liu**, Li Niu, Linfeng Zhang<br> accepted by CVPR 2025
   
 * **Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues** \[[pdf](https://arxiv.org/pdf/2410.10700.pdf)\]<br>
     Qibing Ren, Hao Li, **Dongrui Liu**, Zhanxu Xie, Xiaoya Lu, Yu Qiao, Lei Sha, Junchi Yan, Lizhuang Ma, Jing Shao<br>
