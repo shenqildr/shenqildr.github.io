@@ -14,6 +14,8 @@ Currently, I am working at the Shanghai AI Lab as a Research Fellow. I got a Ph.
 
 My research interests include topics in the trustworthiness of multi-modal foundation models. **We are looking for full-time employees, interns, and joint PhDs (with SJTU/FDU, etc) to work together on foundation models and agents' efficient reasoning and safety/robustness/explainability. Please drop me an email at liudongrui@pjlab.org.cn if you are interested.**
 
+---
+
 Selected Awards
 ======
 * CVPR 2024 Best Paper Candidates 
