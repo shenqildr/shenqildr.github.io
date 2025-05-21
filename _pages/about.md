@@ -40,7 +40,7 @@ My research interests include topics in the trustworthiness of multi-modal found
     Xiaoye Qu, Yafu Li, Zhaochen Su, Weigao Sun, Jianhao Yan, **Dongrui Liu**, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu1, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng<br>
     
 * **LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint** \[[pdf](https://arxiv.org/pdf/2502.16770.pdf)\]<br>
-    Qianli Ma, **Dongrui Liu**, Qian Chen, Linfeng Zhang, Jing Shao<br>
+    Qianli Ma, **Dongrui Liu**, Qian Chen, Linfeng Zhang, Jing Shao<br> accepted by ACL 2025
     
 * **X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability** \[[pdf](https://arxiv.org/pdf/2502.09990.pdf)\]<br>
     Xiaoya Lu, **Dongrui Liu**, Yi Yu, Luxin Xu, Jing Shao<br>
@@ -55,10 +55,10 @@ My research interests include topics in the trustworthiness of multi-modal found
     Yunkai Dang, Kaichen Huang, Jiahao Huo, Yibo Yan, Sirui Huang, **Dongrui Liu**, Mengxi Gao, Jie Zhang, Chen Qian, Kun Wang, Yong Liu, Jing Shao, Hui Xiong, Xuming Hu<br>
     
 * **VLSBench: Unveiling Visual Leakage in Multimodal Safety** \[[pdf](https://arxiv.org/pdf/2411.19939.pdf)\]<br>
-    Xuhao Hu, **Dongrui Liu**, Hao Li, Xuanjing Huang, Jing Shao<br>
+    Xuhao Hu, **Dongrui Liu**, Hao Li, Xuanjing Huang, Jing Shao<br> accepted by ACL 2025
     
 * **DEAN: Deactivating the Coupled Neurons to Mitigate Fairness-Privacy Conflicts in Large Language Models** \[[pdf](https://arxiv.org/pdf/2410.16672.pdf)\]<br>
-    Chen Qian, **Dongrui Liu**, Jie Zhang, Yong Liu, Jing Shao<br>
+    Chen Qian, **Dongrui Liu**, Jie Zhang, Yong Liu, Jing Shao<br> accepted by ACL 2025
 
 * **REEF: Representation Encoding Fingerprints for Large Language Models** \[[pdf](https://arxiv.org/pdf/2410.14273.pdf)\]<br>
     Jie Zhang, **Dongrui Liu**, Chen Qian, Linfeng Zhang, Yong Liu, Yu Qiao, Jing Shao<br> accepted by ICLR 2025 (Oral)
@@ -67,7 +67,7 @@ My research interests include topics in the trustworthiness of multi-modal found
     Qianli Ma, Xuefei Ning, **Dongrui Liu**, Li Niu, Linfeng Zhang<br> accepted by CVPR 2025
   
 * **Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues** \[[pdf](https://arxiv.org/pdf/2410.10700.pdf)\]<br>
-    Qibing Ren, Hao Li, **Dongrui Liu**, Zhanxu Xie, Xiaoya Lu, Yu Qiao, Lei Sha, Junchi Yan, Lizhuang Ma, Jing Shao<br>
+    Qibing Ren, Hao Li, **Dongrui Liu**, Zhanxu Xie, Xiaoya Lu, Yu Qiao, Lei Sha, Junchi Yan, Lizhuang Ma, Jing Shao<br> accepted by ACL 2025
   
 * **Towards the Dynamics of a DNN Learning Symbolic Interactions** \[[pdf](https://arxiv.org/pdf/2407.19198.pdf)\]<br>
     Qihan Ren, Yang Xu, Junpeng Zhang, Yue Xin, **Dongrui Liu**, Quanshi Zhang<br>
