@@ -36,6 +36,15 @@ My research interests include topics in the trustworthiness of multi-modal found
 
 # Publications
 
+* **RiOSWorld: Benchmarking the Risk of Multimodal Compter-Use Agents** \[[pdf](https://arxiv.org/pdf/2506.00618.pdf)\]<br>
+    Jingyi Yang, Shuai Shao, **Dongrui Liu**, Jing Shao<br>
+
+* **Benchmarking Multimodal Knowledge Conflict for Large Multimodal Models** \[[pdf](https://arxiv.org/pdf/2505.19509.pdf)\]<br>
+    Yifan Jia, Kailin Jiang, Yuyang Liang, Qihan Ren, Yi Xin, Rui Yang, Fenze Feng, Mingcai Chen, Hengyang Lu, Haozhe Wang, Xiaoye Qu, **Dongrui Liu**, Lizhen Cui, Yuntao Du<br>
+
+* **Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution** \[[pdf](https://arxiv.org/pdf/2505.20286.pdf)\]<br>
+    Jiahao Qiu, Xuan Qi, Tongcheng Zhang, Xinzhe Juan, Jiacheng Guo, Yifu Lu, Yimin Wang, Zixin Yao, Qihan Ren, Xun Jiang, Xing Zhou, **Dongrui Liu**, Ling Yang, Yue Wu, Kaixuan Huang, Shilong Liu, Hongru Wang, Mengdi Wang<br>
+
 * **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond** \[[pdf](https://arxiv.org/pdf/2503.21614.pdf)\]<br>
     Xiaoye Qu, Yafu Li, Zhaochen Su, Weigao Sun, Jianhao Yan, **Dongrui Liu**, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu1, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng<br>
     
