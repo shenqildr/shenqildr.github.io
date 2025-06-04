@@ -36,6 +36,7 @@ My research interests include topics in the trustworthiness of multi-modal found
 
 # Publications
 
+
 * **RiOSWorld: Benchmarking the Risk of Multimodal Compter-Use Agents** \[[pdf](https://arxiv.org/pdf/2506.00618.pdf)\]<br>
     Jingyi Yang, Shuai Shao, **Dongrui Liu**, Jing Shao<br>
 
@@ -68,6 +69,9 @@ My research interests include topics in the trustworthiness of multi-modal found
     
 * **DEAN: Deactivating the Coupled Neurons to Mitigate Fairness-Privacy Conflicts in Large Language Models** \[[pdf](https://arxiv.org/pdf/2410.16672.pdf)\]<br>
     Chen Qian, **Dongrui Liu**, Jie Zhang, Yong Liu, Jing Shao<br> accepted by ACL 2025
+
+* **Evaluating the Correctness of Inference Patterns Used by LLMs for Judgment** \[[pdf](https://arxiv.org/pdf/2410.09083v2.pdf)\]<br>
+    Lu Chen, Yuxuan Huang, Yixing Li, **Dongrui Liu**, Qihan Ren, Shuai Zhao, Kun Kuang, Zilong Zheng, Quanshi Zhang<br>
 
 * **REEF: Representation Encoding Fingerprints for Large Language Models** \[[pdf](https://arxiv.org/pdf/2410.14273.pdf)\]<br>
     Jie Zhang, **Dongrui Liu**, Chen Qian, Linfeng Zhang, Yong Liu, Yu Qiao, Jing Shao<br> accepted by ICLR 2025 (Oral)
