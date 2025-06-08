@@ -36,6 +36,8 @@ My research interests include topics in the trustworthiness of multi-modal found
 
 # Publications
 
+* **Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning** \[[pdf](https://arxiv.org/pdf/2506.02867.pdf)\]<br>
+    Chen Qian, **Dongrui Liu**, Haochen Wen, Zhen Bai, Yong Liu, Jing Shao<br>
 
 * **RiOSWorld: Benchmarking the Risk of Multimodal Compter-Use Agents** \[[pdf](https://arxiv.org/pdf/2506.00618.pdf)\]<br>
     Jingyi Yang, Shuai Shao, **Dongrui Liu**, Jing Shao<br>
