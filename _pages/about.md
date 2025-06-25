@@ -37,7 +37,7 @@ My research interests include topics in the trustworthiness of multi-modal found
 # Publications
 
 * **IS-BENCH: Evaluating Interactive Safety of VLM-driven Embodied Agents in Daily Household Tasks** \[[pdf](https://arxiv.org/pdf/2506.02867.pdf)\]<br>
-    Xiaoya Lu, Zeren Chen, Xuhao Hu, Yijin Zhou, Weichen Zhang, Dongrui Liu, Lu Sheng, Jing Shao<br>
+    Xiaoya Lu, Zeren Chen, Xuhao Hu, Yijin Zhou, Weichen Zhang, **Dongrui Liu**, Lu Sheng, Jing Shao<br>
 
 * **Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning** \[[pdf](https://arxiv.org/pdf/2506.02867.pdf)\]<br>
     Chen Qian, **Dongrui Liu**, Haochen Wen, Zhen Bai, Yong Liu, Jing Shao<br>
