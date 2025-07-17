@@ -36,7 +36,7 @@ My research interests include topics in the trustworthiness of multi-modal found
 
 # Publications
 
-* **The Devil Behind The Mask: An Emergent Safety Vulnerability of Diffusion LLMS** \[[pdf](https://arxiv.org/pdf/2507.11097.pdf)\]<br>
+* **The Devil Behind The Mask: An Emergent Safety Vulnerability of Diffusion LLMs** \[[pdf](https://arxiv.org/pdf/2507.11097.pdf)\]<br>
     Zichen Wen, Jiashu Qu, **Dongrui Liu**, Zhiyuan Liu, Ruixi Wu, Yicun Yang, Xiangqi Jin, Haoyun Xu, Xuyang Liu, Weijia Li, Chaochao Lu, Jing Shao, Conghui He, Linfeng Zhang<br>
 
 * **IS-BENCH: Evaluating Interactive Safety of VLM-driven Embodied Agents in Daily Household Tasks** \[[pdf](https://arxiv.org/pdf/2506.16402.pdf)\]<br>
