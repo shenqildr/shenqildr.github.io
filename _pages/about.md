@@ -36,9 +36,11 @@ My research interests include topics in the trustworthiness of multi-modal found
 
 # Publications
 
+* **A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence** \[[pdf](https://arxiv.org/pdf/2507.21046.pdf)\]
+
 * **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45◦ Law** \[[pdf](https://arxiv.org/pdf/2507.18576.pdf)\]
 
-* **SafeWork-F1-Practice: Frontier AI Risk Management Framework in Practice|A Risk Analysis Technical Report** \[[pdf](https://arxiv.org/pdf/2507.16534.pdf)\]
+* **SafeWork-F1-Practice: Frontier AI Risk Management Framework in Practice** \[[pdf](https://arxiv.org/pdf/2507.16534.pdf)\]
 
 * **The Devil Behind The Mask: An Emergent Safety Vulnerability of Diffusion LLMs** \[[pdf](https://arxiv.org/pdf/2507.11097.pdf)\]<br>
     Zichen Wen, Jiashu Qu, **Dongrui Liu**, Zhiyuan Liu, Ruixi Wu, Yicun Yang, Xiangqi Jin, Haoyun Xu, Xuyang Liu, Weijia Li, Chaochao Lu, Jing Shao, Conghui He, Linfeng Zhang<br>
