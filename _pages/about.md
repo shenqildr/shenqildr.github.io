@@ -21,7 +21,8 @@ My research interests include topics in the trustworthiness of multi-modal found
 
 # Selected Awards
 
-* CVPR 2024 Best Paper Candidate
+* CVPR 2024 Best Paper Award Candidate
+* ACL 2025 Outstanding Paper Award
 * Outstanding Graduate Student, Shanghai Jiao Tong University
 * National Scholarship
 
@@ -97,7 +98,7 @@ My research interests include topics in the trustworthiness of multi-modal found
     Qianli Ma, Xuefei Ning, **Dongrui Liu**, Li Niu, Linfeng Zhang<br> accepted by CVPR 2025
   
 * **Derail Yourself: Multi-turn LLM Jailbreak Attack through Self-discovered Clues** \[[pdf](https://arxiv.org/pdf/2410.10700.pdf)\]<br>
-    Qibing Ren, Hao Li, **Dongrui Liu**, Zhanxu Xie, Xiaoya Lu, Yu Qiao, Lei Sha, Junchi Yan, Lizhuang Ma, Jing Shao<br> accepted by ACL 2025
+    Qibing Ren, Hao Li, **Dongrui Liu**, Zhanxu Xie, Xiaoya Lu, Yu Qiao, Lei Sha, Junchi Yan, Lizhuang Ma, Jing Shao<br> accepted by ACL 2025 (**Outstanding Paper Award**)
   
 * **Towards the Dynamics of a DNN Learning Symbolic Interactions** \[[pdf](https://arxiv.org/pdf/2407.19198.pdf)\]<br>
     Qihan Ren, Yang Xu, Junpeng Zhang, Yue Xin, **Dongrui Liu**, Quanshi Zhang<br>
