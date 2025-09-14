@@ -66,12 +66,15 @@ My research interests include topics in the trustworthiness of multi-modal found
 
 * **A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond** \[[pdf](https://arxiv.org/pdf/2503.21614.pdf)\]<br>
     Xiaoye Qu, Yafu Li, Zhaochen Su, Weigao Sun, Jianhao Yan, **Dongrui Liu**, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu1, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng<br>
+
+* **Cooperative or Competitive? Understanding the Interaction between Attention Heads From A Game Theory Perspective** \[[pdf](https://aclanthology.org/2025.acl-long.688.pdf)\]<br>
+    Xiaoye Qu, Zengqi Yu, **Dongrui Liu**, Wei Wei, Daizong Liu, Jianfeng Dong, Yu Cheng<br> accepted by ACL 2025 (Oral)
     
 * **LED-Merging: Mitigating Safety-Utility Conflicts in Model Merging with Location-Election-Disjoint** \[[pdf](https://arxiv.org/pdf/2502.16770.pdf)\]<br>
     Qianli Ma, **Dongrui Liu**, Qian Chen, Linfeng Zhang, Jing Shao<br> accepted by ACL 2025
     
 * **X-Boundary: Establishing Exact Safety Boundary to Shield LLMs from Multi-Turn Jailbreaks without Compromising Usability** \[[pdf](https://arxiv.org/pdf/2502.09990.pdf)\]<br>
-    Xiaoya Lu, **Dongrui Liu**, Yi Yu, Luxin Xu, Jing Shao<br>
+    Xiaoya Lu, **Dongrui Liu**, Yi Yu, Luxin Xu, Jing Shao<br> accepted by EMNLP 2025
     
 * **SEER: Self-Explainability Enhancement of Large Language Models’ Representations** \[[pdf](https://arxiv.org/pdf/2502.05242.pdf)\]<br>
     Guanxu Chen, **Dongrui Liu**, Tao Luo, Jing Shao<br>
@@ -86,7 +89,7 @@ My research interests include topics in the trustworthiness of multi-modal found
     Xuhao Hu, **Dongrui Liu**, Hao Li, Xuanjing Huang, Jing Shao<br> accepted by ACL 2025
     
 * **DEAN: Deactivating the Coupled Neurons to Mitigate Fairness-Privacy Conflicts in Large Language Models** \[[pdf](https://arxiv.org/pdf/2410.16672.pdf)\]<br>
-    Chen Qian, **Dongrui Liu**, Jie Zhang, Yong Liu, Jing Shao<br> accepted by ACL 2025
+    Chen Qian, **Dongrui Liu**, Jie Zhang, Yong Liu, Jing Shao<br> accepted by ACL 2025 (Oral)
 
 * **Evaluating the Correctness of Inference Patterns Used by LLMs for Judgment** \[[pdf](https://arxiv.org/pdf/2410.09083v2.pdf)\]<br>
     Lu Chen, Yuxuan Huang, Yixing Li, **Dongrui Liu**, Qihan Ren, Shuai Zhao, Kun Kuang, Zilong Zheng, Quanshi Zhang<br>
