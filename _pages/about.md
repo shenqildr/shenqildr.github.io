@@ -37,6 +37,8 @@ My research interests include topics in the trustworthiness of multi-modal found
 
 # Publications
 
+
+
 * **A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence** \[[pdf](https://arxiv.org/pdf/2507.21046.pdf)\]
 
 * **SafeWork-R1: Coevolving Safety and Intelligence under the AI-45◦ Law** \[[pdf](https://arxiv.org/pdf/2507.18576.pdf)\]
@@ -51,6 +53,9 @@ My research interests include topics in the trustworthiness of multi-modal found
 
 * **Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles** \[[pdf](https://arxiv.org/pdf/2506.10848.pdf)\]<br>
     Qingyan Wei, Yaojie Zhang, Zhiyuan Liu, **Dongrui Liu**, Linfeng Zhang<br>
+
+* **The LLM Already Knows: Estimating LLM-Perceived Question Difficulty via Hidden Representations** \[[pdf](https://arxiv.org/pdf/2509.12886.pdf)\]<br>
+    Yubo Zhu, **Dongrui Liu**, Zecheng Lin, Wei Tong, Sheng Zhong, Jing Shao<br>
 
 * **Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning** \[[pdf](https://arxiv.org/pdf/2506.02867.pdf)\]<br>
     Chen Qian, **Dongrui Liu**, Haochen Wen, Zhen Bai, Yong Liu, Jing Shao<br>
