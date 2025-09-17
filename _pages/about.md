@@ -55,7 +55,7 @@ My research interests include topics in the trustworthiness of multi-modal found
     Qingyan Wei, Yaojie Zhang, Zhiyuan Liu, **Dongrui Liu**, Linfeng Zhang<br>
 
 * **The LLM Already Knows: Estimating LLM-Perceived Question Difficulty via Hidden Representations** \[[pdf](https://arxiv.org/pdf/2509.12886.pdf)\]<br>
-    Yubo Zhu, **Dongrui Liu**, Zecheng Lin, Wei Tong, Sheng Zhong, Jing Shao<br>
+    Yubo Zhu, **Dongrui Liu**, Zecheng Lin, Wei Tong, Sheng Zhong, Jing Shao<br> accepted by EMNLP 2025
 
 * **Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning** \[[pdf](https://arxiv.org/pdf/2506.02867.pdf)\]<br>
     Chen Qian, **Dongrui Liu**, Haochen Wen, Zhen Bai, Yong Liu, Jing Shao<br>
