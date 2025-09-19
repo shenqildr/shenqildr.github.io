@@ -58,10 +58,10 @@ My research interests include topics in the trustworthiness of multi-modal found
     Yubo Zhu, **Dongrui Liu**, Zecheng Lin, Wei Tong, Sheng Zhong, Jing Shao<br> accepted by EMNLP 2025
 
 * **Demystifying Reasoning Dynamics with Mutual Information: Thinking Tokens are Information Peaks in LLM Reasoning** \[[pdf](https://arxiv.org/pdf/2506.02867.pdf)\]<br>
-    Chen Qian, **Dongrui Liu**, Haochen Wen, Zhen Bai, Yong Liu, Jing Shao<br>
+    Chen Qian, **Dongrui Liu**, Haochen Wen, Zhen Bai, Yong Liu, Jing Shao<br> accepted by NeurIPs 2025
 
 * **RiOSWorld: Benchmarking the Risk of Multimodal Compter-Use Agents** \[[pdf](https://arxiv.org/pdf/2506.00618.pdf)\]<br>
-    Jingyi Yang, Shuai Shao, **Dongrui Liu**, Jing Shao<br>
+    Jingyi Yang, Shuai Shao, **Dongrui Liu**, Jing Shao<br> accepted by NeurIPs 2025
 
 * **Benchmarking Multimodal Knowledge Conflict for Large Multimodal Models** \[[pdf](https://arxiv.org/pdf/2505.19509.pdf)\]<br>
     Yifan Jia, Kailin Jiang, Yuyang Liang, Qihan Ren, Yi Xin, Rui Yang, Fenze Feng, Mingcai Chen, Hengyang Lu, Haozhe Wang, Xiaoye Qu, **Dongrui Liu**, Lizhen Cui, Yuntao Du<br>
