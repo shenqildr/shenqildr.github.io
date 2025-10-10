@@ -37,7 +37,23 @@ My research interests include topics in the trustworthiness of multi-modal found
 
 # Publications
 
+* **Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents** \[[pdf](https://arxiv.org/pdf/2509.26354.pdf)\]<br>
+    Shuai Shao, Qihan Ren, Chen Qian, Boyi Wei, Dadi Guo, Jingyi Yang, Xinhao Song, Linfeng Zhang, Weinan Zhang, **Dongrui Liu**, Jing Shao<br>
 
+* **Towards Self-Evolving Benchmarks: Synthesizing Agent Trajectories via Test-Time Exploration under Validate-by-Reproduce Paradigm** \[[pdf](https://arxiv.org/pdf/2510.00415.pdf)\]<br>
+    Dadi Guo, Tianyi Zhou, **Dongrui Liu**, Chen Qian, Qihan Ren, Shuai Shao, Zhiyuan Fan, Yi R Fung, Kun Wang, Linfeng Zhang, Jing Shao<br>
+
+* **Rethinking Entropy Regularization in Large Reasoning Models** \[[pdf](https://arxiv.org/pdf/2509.25133.pdf)\]<br>
+    Yuxian Jiang, Yafu Li, Guanxu Chen, **Dongrui Liu**, Yu Cheng, Jing Shao<br>
+
+* **Conditional Advantage Estimation for Reinforcement Learning in Large Reasoning Models** \[[pdf](https://arxiv.org/pdf/2509.23962.pdf)\]<br>
+    Guanxu Chen, Yafu Li, Yuxian Jiang, Chen Qian, Qihan Ren, Jingyi Yang, Yu Cheng, **Dongrui Liu**, Jing Shao<br>
+
+* **ExGRPO: Learning to Reason from Experience** \[[pdf](https://arxiv.org/pdf/2510.02245.pdf)\]<br>
+    Runzhe Zhan, Yafu Li, Zhi Wang, Xiaoye Qu, **Dongrui Liu**, Jing Shao, Derek F Wong, Yu Cheng<br>
+
+* **Reasoning over Boundaries: Enhancing Specification Alignment via Test-time Delibration** \[[pdf](https://arxiv.org/pdf/2509.14760.pdf)\]<br>
+    Haoran Zhang, Yafu Li, Xuyang Hu, **Dongrui Liu**, Zhilin Wang, Bo Li, Yu Cheng<br>
 
 * **A Survey of Self-Evolving Agents: On Path to Artificial Super Intelligence** \[[pdf](https://arxiv.org/pdf/2507.21046.pdf)\]
 
