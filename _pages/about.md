@@ -13,7 +13,7 @@ redirect_from:
 
 Currently, I am working at the Shanghai AI Lab as a Research Fellow. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
 
-My research interests include topics in the trustworthiness of multi-modal foundation models and agents, e.g., jailbreak, defense, alignment, interpretability, efficient reasoning, OS and embodied agent safety.
+My research interests include topics in the trustworthiness of multi-modal foundation models and agents, e.g., jailbreak, defense, alignment, interpretability, efficient reasoning, OS, and embodied agent safety.
 
 **We are looking for full-time employees, interns, and joint PhDs (with SJTU/FDU, etc) to work together on Trustworthy AI. I am open to collaboration and discussions. Feel free to drop me an email at liudongrui@pjlab.org.cn if you are interested.**
 
@@ -65,7 +65,7 @@ My research interests include topics in the trustworthiness of multi-modal found
     Zichen Wen, Jiashu Qu, **Dongrui Liu**, Zhiyuan Liu, Ruixi Wu, Yicun Yang, Xiangqi Jin, Haoyun Xu, Xuyang Liu, Weijia Li, Chaochao Lu, Jing Shao, Conghui He, Linfeng Zhang<br>
 
 * **IS-BENCH: Evaluating Interactive Safety of VLM-driven Embodied Agents in Daily Household Tasks** \[[pdf](https://arxiv.org/pdf/2506.16402.pdf)\]<br>
-    Xiaoya Lu, Zeren Chen, Xuhao Hu, Yijin Zhou, Weichen Zhang, **Dongrui Liu**, Lu Sheng, Jing Shao<br>
+    Xiaoya Lu, Zeren Chen, Xuhao Hu, Yijin Zhou, Weichen Zhang, **Dongrui Liu**, Lu Sheng, Jing Shao<br> accepted by AAAI 2026
 
 * **Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles** \[[pdf](https://arxiv.org/pdf/2506.10848.pdf)\]<br>
     Qingyan Wei, Yaojie Zhang, Zhiyuan Liu, **Dongrui Liu**, Linfeng Zhang<br>
@@ -80,7 +80,7 @@ My research interests include topics in the trustworthiness of multi-modal found
     Jingyi Yang, Shuai Shao, **Dongrui Liu**, Jing Shao<br> accepted by NeurIPs 2025
 
 * **Benchmarking Multimodal Knowledge Conflict for Large Multimodal Models** \[[pdf](https://arxiv.org/pdf/2505.19509.pdf)\]<br>
-    Yifan Jia, Kailin Jiang, Yuyang Liang, Qihan Ren, Yi Xin, Rui Yang, Fenze Feng, Mingcai Chen, Hengyang Lu, Haozhe Wang, Xiaoye Qu, **Dongrui Liu**, Lizhen Cui, Yuntao Du<br>
+    Yifan Jia, Kailin Jiang, Yuyang Liang, Qihan Ren, Yi Xin, Rui Yang, Fenze Feng, Mingcai Chen, Hengyang Lu, Haozhe Wang, Xiaoye Qu, **Dongrui Liu**, Lizhen Cui, Yuntao Du<br> accepted by AAAI 2026 (Oral)
 
 * **Alita: Generalist Agent Enabling Scalable Agentic Reasoning with Minimal Predefinition and Maximal Self-Evolution** \[[pdf](https://arxiv.org/pdf/2505.20286.pdf)\]<br>
     Jiahao Qiu, Xuan Qi, Tongcheng Zhang, Xinzhe Juan, Jiacheng Guo, Yifu Lu, Yimin Wang, Zixin Yao, Qihan Ren, Xun Jiang, Xing Zhou, **Dongrui Liu**, Ling Yang, Yue Wu, Kaixuan Huang, Shilong Liu, Hongru Wang, Mengdi Wang<br>
