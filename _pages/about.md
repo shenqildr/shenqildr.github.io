@@ -11,7 +11,7 @@ redirect_from:
 # Biography
 
 
-Currently, I am working at the Shanghai AI Lab as a Research Fellow. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
+Currently, I am working at the Shanghai AI Lab as a Research Scientist. I got a Ph.D. degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was supervised by Prof. [Quanshi Zhang](http://qszhang.com/#). Before that, I received my B.Sc. degree from Northeastern University.
 
 My research interests include topics in the trustworthiness of multi-modal foundation models and agents, e.g., jailbreak, defense, alignment, interpretability, efficient reasoning, OS, and embodied agent safety.
 
@@ -36,6 +36,7 @@ My research interests include topics in the trustworthiness of multi-modal found
 ---
 
 # Publications
+
 
 * **Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents** \[[pdf](https://arxiv.org/pdf/2509.26354.pdf)\]<br>
     Shuai Shao, Qihan Ren, Chen Qian, Boyi Wei, Dadi Guo, Jingyi Yang, Xinhao Song, Linfeng Zhang, Weinan Zhang, **Dongrui Liu**, Jing Shao<br>
