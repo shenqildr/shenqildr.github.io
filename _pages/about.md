@@ -37,21 +37,48 @@ My research interests include topics in the trustworthiness of multi-modal found
 
 # Publications
 
+* **A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)** \[[pdf](https://arxiv.org/pdf/2602.14364.pdf)\]<br>
+
+* **Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5** \[[pdf](https://arxiv.org/pdf/2602.14457.pdf)\]<br>
+
+* **DeepSight: An All-in-One LM Safety Toolkit** \[[pdf](https://arxiv.org/pdf/2602.12092.pdf)\]<br>
+
+* **InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery** \[[pdf](https://arxiv.org/pdf/2602.08990.pdf)\]<br>
+
+* **LPS-BENCH: Benchmarking Safety Awareness of Computer-Use Agents in Long-Horizon Planning under Benign and Adversarial Scenarios** \[[pdf](https://arxiv.org/pdf/2602.03255.pdf)\]<br>
+
+* **Interpreting Emergent Extreme Events in Multi-Agent Systems** \[[pdf](https://arxiv.org/pdf/2601.20538.pdf)\]<br>
+
+* **AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security** \[[pdf](https://arxiv.org/pdf/2601.18491.pdf)\]<br>
+
+* **The Why Behind the Action: Unveiling Internal Drivers via Agentic Attribution** \[[pdf](https://arxiv.org/pdf/2601.15075.pdf)\]<br>
+
+* **INFA-GUARD: Mitigating Malicious Propagation via Infection-Aware Safeguarding in LLM-Based Multi-Agent Systems** \[[pdf](https://arxiv.org/pdf/2601.14667.pdf)\]<br>
+
+* **ReasonAny: Incorporating Reasoning Capability to Any Model via Simple and Effective Model Merging** \[[pdf](https://arxiv.org/pdf/2601.05560.pdf)\]<br>
+
+* **Are Your Agents Upward Deceivers?** \[[pdf](https://arxiv.org/pdf/2512.04864.pdf)\]<br>
+ 
+* **TradeTrap: Are LLM-based Trading Agents Truly Reliable and Faithful?** \[[pdf](https://arxiv.org/pdf/2512.02261.pdf)\]<br>  
+
+* **AI Deception: Risks, Dynamics, and Controls** \[[pdf](https://arxiv.org/pdf/2511.22619.pdf)\]<br>  
+
+* **LLMs Deceive Unintentionally: Emergent Misalignment in Dishonesty from Misaligned Samples to Biased Human-AI Interactions** \[[pdf](https://arxiv.org/pdf/2510.08211.pdf)\]<br>  
 
 * **Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents** \[[pdf](https://arxiv.org/pdf/2509.26354.pdf)\]<br>
-    Shuai Shao, Qihan Ren, Chen Qian, Boyi Wei, Dadi Guo, Jingyi Yang, Xinhao Song, Linfeng Zhang, Weinan Zhang, **Dongrui Liu**, Jing Shao<br>
+    Shuai Shao, Qihan Ren, Chen Qian, Boyi Wei, Dadi Guo, Jingyi Yang, Xinhao Song, Linfeng Zhang, Weinan Zhang, **Dongrui Liu**, Jing Shao<br> accepted by ICLR 2026
 
 * **Towards Self-Evolving Benchmarks: Synthesizing Agent Trajectories via Test-Time Exploration under Validate-by-Reproduce Paradigm** \[[pdf](https://arxiv.org/pdf/2510.00415.pdf)\]<br>
-    Dadi Guo, Tianyi Zhou, **Dongrui Liu**, Chen Qian, Qihan Ren, Shuai Shao, Zhiyuan Fan, Yi R Fung, Kun Wang, Linfeng Zhang, Jing Shao<br>
+    Dadi Guo, Tianyi Zhou, **Dongrui Liu**, Chen Qian, Qihan Ren, Shuai Shao, Zhiyuan Fan, Yi R Fung, Kun Wang, Linfeng Zhang, Jing Shao<br> accepted by ICLR 2026
 
 * **Rethinking Entropy Regularization in Large Reasoning Models** \[[pdf](https://arxiv.org/pdf/2509.25133.pdf)\]<br>
     Yuxian Jiang, Yafu Li, Guanxu Chen, **Dongrui Liu**, Yu Cheng, Jing Shao<br>
 
 * **Conditional Advantage Estimation for Reinforcement Learning in Large Reasoning Models** \[[pdf](https://arxiv.org/pdf/2509.23962.pdf)\]<br>
-    Guanxu Chen, Yafu Li, Yuxian Jiang, Chen Qian, Qihan Ren, Jingyi Yang, Yu Cheng, **Dongrui Liu**, Jing Shao<br>
+    Guanxu Chen, Yafu Li, Yuxian Jiang, Chen Qian, Qihan Ren, Jingyi Yang, Yu Cheng, **Dongrui Liu**, Jing Shao<br> accepted by ICLR 2026
 
 * **ExGRPO: Learning to Reason from Experience** \[[pdf](https://arxiv.org/pdf/2510.02245.pdf)\]<br>
-    Runzhe Zhan, Yafu Li, Zhi Wang, Xiaoye Qu, **Dongrui Liu**, Jing Shao, Derek F Wong, Yu Cheng<br>
+    Runzhe Zhan, Yafu Li, Zhi Wang, Xiaoye Qu, **Dongrui Liu**, Jing Shao, Derek F Wong, Yu Cheng<br> accepted by ICLR 2026
 
 * **Reasoning over Boundaries: Enhancing Specification Alignment via Test-time Delibration** \[[pdf](https://arxiv.org/pdf/2509.14760.pdf)\]<br>
     Haoran Zhang, Yafu Li, Xuyang Hu, **Dongrui Liu**, Zhilin Wang, Bo Li, Yu Cheng<br>
@@ -63,13 +90,13 @@ My research interests include topics in the trustworthiness of multi-modal found
 * **SafeWork-F1-Practice: Frontier AI Risk Management Framework in Practice** \[[pdf](https://arxiv.org/pdf/2507.16534.pdf)\]
 
 * **The Devil Behind The Mask: An Emergent Safety Vulnerability of Diffusion LLMs** \[[pdf](https://arxiv.org/pdf/2507.11097.pdf)\]<br>
-    Zichen Wen, Jiashu Qu, **Dongrui Liu**, Zhiyuan Liu, Ruixi Wu, Yicun Yang, Xiangqi Jin, Haoyun Xu, Xuyang Liu, Weijia Li, Chaochao Lu, Jing Shao, Conghui He, Linfeng Zhang<br>
+    Zichen Wen, Jiashu Qu, **Dongrui Liu**, Zhiyuan Liu, Ruixi Wu, Yicun Yang, Xiangqi Jin, Haoyun Xu, Xuyang Liu, Weijia Li, Chaochao Lu, Jing Shao, Conghui He, Linfeng Zhang<br> accepted by ICLR 2026
 
 * **IS-BENCH: Evaluating Interactive Safety of VLM-driven Embodied Agents in Daily Household Tasks** \[[pdf](https://arxiv.org/pdf/2506.16402.pdf)\]<br>
     Xiaoya Lu, Zeren Chen, Xuhao Hu, Yijin Zhou, Weichen Zhang, **Dongrui Liu**, Lu Sheng, Jing Shao<br> accepted by AAAI 2026
 
 * **Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles** \[[pdf](https://arxiv.org/pdf/2506.10848.pdf)\]<br>
-    Qingyan Wei, Yaojie Zhang, Zhiyuan Liu, **Dongrui Liu**, Linfeng Zhang<br>
+    Qingyan Wei, Yaojie Zhang, Zhiyuan Liu, **Dongrui Liu**, Linfeng Zhang<br> accepted by ICLR 2026
 
 * **The LLM Already Knows: Estimating LLM-Perceived Question Difficulty via Hidden Representations** \[[pdf](https://arxiv.org/pdf/2509.12886.pdf)\]<br>
     Yubo Zhu, **Dongrui Liu**, Zecheng Lin, Wei Tong, Sheng Zhong, Jing Shao<br> accepted by EMNLP 2025
